@@ -55,8 +55,11 @@ Güneşin sıcaklığı 5500, çapı 130000 olmalı, Ismi "Gunes", tipi "SariCuc
 
 
 Çıktı:
+
 Sistemde yildiz bulunmaktadir. Antares eklenemez.
+
 Burasi Dunya. Sıcaklik 25C, Cap 12700
+
 Burasi Ay. Sıcaklik -23C, Cap 3400
 Burasi Gunes. Sıcaklik 5500C, Cap 130000, tipi SariCuce
 Burasi Neptun. Sıcaklik -210C, Cap 49200
@@ -69,6 +72,9 @@ Neptun Mars Dunya
 Triton, Proteus, Phobos, Ay
 3
 4
+
+
+
 Yolladığınız kodlarda türkçe karakter bulunamaz, aksi halde değerlendirilmeyecektir.
 Yolladığınız kodlarda package bilgisi bulunamaz. package lab2; benzeri tüm satırlar tüm java
 dosyalarından silinmelidir. Yukarıda da belirtildiği üzere Test classında değişiklik yapamazsınız
